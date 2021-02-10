@@ -97,16 +97,13 @@
    width: 0;
    visibility: hidden;
  }
- label .fa-moon {
-  color: var(--bg-panel);
-}
  
  label {
    cursor: pointer;
    text-indent: -9999px;
    width: 52px;
    height: 27px;
-   background: rgb(71, 143, 38);
+   background: url(./assets/sun.svg)no-repeat;
    float: right;
    border-radius: 100px;
    position: relative;
