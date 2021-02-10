@@ -23,7 +23,7 @@ Projeto desenvolvido durante a **Maratona Discover** oferecida pela [Rocketse
         - Lazer
         - Atividade extra
 - [x]  Os usuários tem acesso ao site responsivo no mobile.
-- [ ]  Adicionar dark mode
+- [x]  Adicionar dark mode
 - [ ]  Adicionar organização de transações
 - [ ]  Adicionar edição de transações
 - [ ]  Adicionar mais animações e caixas de alerta de explicação

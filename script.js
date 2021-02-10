@@ -1,4 +1,3 @@
-
 const Modal = {
   open(){
     //Abrir modal
