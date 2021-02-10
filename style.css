@@ -6,7 +6,7 @@
  --red: #e92929;
  
  --bg: #d5d6d8;
- --bg-panel: #c7c7c7;
+ --bg-panel: #e7e9e9;
  --color-headings: #0077FF;
  --color-text: #333333;
  --color-card: #333333;
@@ -26,7 +26,7 @@ html {
 
 body{  
 
-  background: #d5d6d8;
+  background: var(--bg);
   font-family: 'Poppins', sans-serif;
   
 }
@@ -221,7 +221,7 @@ header {
 
 /* Cards ===================== */
 .card {
-  background:var(--bg);
+  background:var(--bg-panel);
   padding: 1.5rem 2rem;
   border-radius: 0.25rem;
 
