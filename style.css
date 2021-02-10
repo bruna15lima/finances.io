@@ -103,7 +103,7 @@
    text-indent: -9999px;
    width: 52px;
    height: 27px;
-   background: url(./assets/sun.svg)no-repeat;
+   background:var(--green) url(./assets/sun.svg)no-repeat;
    float: right;
    border-radius: 100px;
    position: relative;
