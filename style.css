@@ -99,7 +99,7 @@
  }
  
  label {
-   margin-top: -32px;
+   margin-top: -35px;
    cursor: pointer;
    text-indent: -999999px;
    width: 52px;
@@ -108,7 +108,7 @@
    float: right;
    border-radius: 100px;
    position: relative;
-   left: calc(0% - 80px);
+   left: calc(0% - -90px);
    transform: translateX(-50%);
 }
  
@@ -396,7 +396,7 @@
    html {
      font-size: 80.5%;
    }
- 
+  
    #balance {
      display: grid;    
      grid-template-columns: 16rem 16rem 16rem ; 
