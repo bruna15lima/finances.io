@@ -42,6 +42,7 @@ const Transaction = {
     }, 
 
     remove(index) {
+     
       Transaction.all.splice(index, 1)
       
       App.reload()
@@ -81,6 +82,8 @@ const Form = {
   description: document.querySelector('input#description'),
   amount: document.querySelector('input#amount'),
   date: document.querySelector('input#date'),
+  category: document.querySelector('input#category'),
+  
 
   getValues(){
     return {
@@ -113,7 +116,8 @@ const Form = {
     return{
       description,
       amount,
-      date
+      date,
+      //category
     }
   },
 
