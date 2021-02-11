@@ -49,7 +49,7 @@
    width: min(90vw, 500px);
    margin:auto;
  }
- /*/toggle  */
+ /*/toggle  =====================================*/
  
  html {
    height: 100%;
@@ -68,8 +68,8 @@
  
  .container1 {
    
+   
    border-radius: 15px;
- 
    display: grid;
    grid-template-columns: 80% auto;
    grid-template-rows: auto auto;
@@ -99,6 +99,7 @@
  }
  
  label {
+   margin-top: -29px;
    cursor: pointer;
    text-indent: -999999px;
    width: 52px;
@@ -107,7 +108,10 @@
    float: right;
    border-radius: 100px;
    position: relative;
- }
+   left: calc(0% - -1px);
+   transform: translateX(-50%);
+}
+ 
  
  label::after{
    content: '';
@@ -135,7 +139,7 @@
  }
  
  
- /*====================/*
+ /*===========/*
  
  /* Titles ===================== */
  h2 {
@@ -200,6 +204,8 @@
   padding: 2rem 0rem 10rem;
   text-align: center;
  }
+
+
  
  #logo{
    color: #fff;
