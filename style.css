@@ -99,7 +99,7 @@
  }
  
  label {
-   margin-top: -29px;
+   margin-top: -32px;
    cursor: pointer;
    text-indent: -999999px;
    width: 52px;
@@ -108,7 +108,7 @@
    float: right;
    border-radius: 100px;
    position: relative;
-   left: calc(0% - -1px);
+   left: calc(0% - 80px);
    transform: translateX(-50%);
 }
  
