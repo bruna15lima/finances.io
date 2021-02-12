@@ -7,7 +7,7 @@ dev.finance$ - É a maneira de você controlar suas finanças.
 
 Projeto desenvolvido durante a **Maratona Discover** oferecida pela [Rocketseat](https://www.linkedin.com/school/rocketseat/).
 
----
+-🚀💻--https://bruna15lima.github.io/finances.io/
 
 ## **⚙️ Funcionalidades**
 
