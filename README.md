@@ -65,4 +65,4 @@ HTML5 CSS3 Javascript
 
 ---
 
-Feito com muito ❤️ por [bruna15lima](https://github.com/bruna15lima) 👋🏽 [Entre em contato!](https://www.linkedin.com/in/bruna-calheiros/?originalSubdomain=br)
+Feito com muito ❤️ por [bruna15lima](https://github.com/bruna15lima) 👋🏽 [Entre em contato!]
