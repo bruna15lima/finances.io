@@ -61,7 +61,7 @@ HTML5 CSS3 Javascript
 
 ## **🦸 Autor**
 
-[Bruna Calheiros](https://www.linkedin.com/in/bruna-calheiros/?originalSubdomain=br)[🚀](https://www.linkedin.com/in/luca-salazar-6b75b817a/)
+[Bruna Calheiros](https://www.linkedin.com/in/bruna-calheiros/?originalSubdomain=br)[🚀]
 
 ---
 
